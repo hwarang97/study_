@@ -60,6 +60,9 @@ Pintos
 ## algorithm
 - [leetcode_128](https://app.notion.com/p/leetcode_128-3b7b3160e4c080e8ad45ddb3be7be913)
 
+## Object Oriented Programming and design
+- [ ] 환경세팅 (Intelli, Temurin Open JDK)
+
 ## 이력서 작성
 - [x] CV 작성
 - [x] 커버레터 작성
@@ -68,8 +71,8 @@ Pintos
 - [x] 이력서 2차 첨삭 (8/11)
 - [x] 이력서 프로젝트란 수정 (인턴 경험 정리)
 - [x] 이력서 3차 첨삭 (8/16)
-- [ ] 이력서 4차 첨삭 (8/19)
-- [ ] 포트폴리오 STAR 구조에 맡도록 변경
+- [x] 이력서 4차 첨삭 (8/19)
+- [x] 포트폴리오 STAR 구조에 맡도록 변경
 
 ## 표적지 목록
 - [x] toss server developer intern
